@@ -1,0 +1,20 @@
+.h1 {color: blue;
+	}
+.p1 {font-family: century ghoatic;
+	 color: rgb(166,242,184)}
+
+.h2 {text-align: center;}
+.p2 {text-align: right;}
+
+.h3,.p3 {text-indent: 150px;}
+
+.h4 {text-decoration: underline;}
+.p4 {text-decoration: line-through;}
+
+
+.h5 {text-transform: lowercase;}
+.p5 {text-transform: uppercase;}
+
+.h6,.p6 {letter-spacing: 200px;}
+
+.h7, .p7 {word-spacing: 10px;}
